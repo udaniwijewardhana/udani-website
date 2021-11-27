@@ -1,5 +1,5 @@
 [build]
-   command = yarn build && yarn export
+   #command = yarn build && yarn export
    commandOrigin = config
    publish = "out"
-   publishOrigin = config
+   #publishOrigin = config
