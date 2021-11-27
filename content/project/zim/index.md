@@ -1,0 +1,8 @@
+---
+title: Effect of climate for the persistence of Hooded Plover on Mornington Peninsula using citizen science data 
+summary: Study 1
+tags:
+- PhD
+---
+
+The Hooded Plover is a non-migratory local shorebird in Australia. The Hooded Plover is listed as a vulnerable bird species under the IUCN red list assessment criteria. In this study we identify the effect of climate for Hooded Plover on Mornington Peninsula in spatio-temporal scale. In order to clarify the effect of climate on the persistence of the Hooded Plover we have used the annual citizen science data available in ALA, which has a large amount of validated observational data. To quantify any effects of climate, we have considered the mean annual temperature, and total rainfall. Citizen science count data often includes excess zeros for rare species like the Hooded Plover in specific areas or time periods. Therefore, we have compared the most common zero inflation models which are Zero Inflated models and Hurdle models using Poisson and Negative Binomial distributions while using spatio-temporal structure. In spatio-temporal models the performance of the Negative Binomial Hurdle model was superior. Temperature has a significantly positive effect while rainfall has a significantly negative effect on probability of zero counts of Hooded Plover which means presence of Hooded Plover is associated with lower temperature and higher rainfall. This work shows that statistical models can be used to address the challenges associated with the use of citizen science data for monitoring the persistence of rare birds, while identifying factors affecting this persistence such as climate.
