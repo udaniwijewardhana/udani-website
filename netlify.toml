@@ -1,5 +1,0 @@
-[build]
-   command = "yarn build && yarn export"
-   commandOrigin = "config.toml"
-   publish = "out"
-   publishOrigin = "config.toml"
