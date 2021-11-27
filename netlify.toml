@@ -77,5 +77,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [build]
   command = "yarn build && yarn export"
   publish = "out"
-
-...
