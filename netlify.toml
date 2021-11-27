@@ -75,5 +75,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
       unsafe = true
 
 [build]
-  command = "yarn build && yarn export"
-  publish = "out"
+   command: yarn build && yarn export
+   commandOrigin: config
+   publish: /opt/build/repo/out
+   publishOrigin: config
