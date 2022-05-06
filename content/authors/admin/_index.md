@@ -18,12 +18,12 @@ organizations:
   url: "https://www.swinburne.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Udani Wijewardhana holds a first-class special BSc (Hons) degree in Computational mathematics and statistics from University of Colombo, Sri Lanka. Her background is in data science with experience in private practice. Her PhD research focus is the development of Persistence models for bird species considering spatial and temporal scales using citizen science data.
+bio: Udani Wijewardhana holds a first-class special BSc (Hons) degree in Computational mathematics and statistics from University of Colombo, Sri Lanka. Her background is in data science with experience in private practice. Her PhD research is about statistical modelling for resident shorebirds in Australia using citizen science data.
 
 interests:
-- Spatial and temporal data analysis
 - Biostatistics
 - Data Mining using R
+- Spatial and temporal data analysis
 
 education:
   courses:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Udani Wijewardhana holds a first-class special BSc (Hons) degree in Computational mathematics and statistics from University of Colombo, Sri Lanka. Her background is in data science with experience in private practice. Her PhD research focus is the development of Persistence models for bird species considering spatial and temporal scales using citizen science data.
+Udani Wijewardhana holds a first-class special BSc (Hons) degree in Computational mathematics and statistics from University of Colombo, Sri Lanka. Her background is in data science with experience in private practice. Her PhD research is about statistical modelling for resident shorebirds in Australia using citizen science data.
