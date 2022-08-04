@@ -73,3 +73,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+    dateFormat = "02 Jan 2006"
