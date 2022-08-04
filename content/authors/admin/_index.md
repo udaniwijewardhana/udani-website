@@ -21,9 +21,11 @@ organizations:
 bio: Udani Wijewardhana holds a first-class special BSc (Hons) degree in Computational mathematics and statistics from University of Colombo, Sri Lanka. Her background is in data science with experience in private practice. Her PhD research is about statistical modelling for resident shorebirds in Australia using citizen science data.
 
 interests:
+- Quantitative research
 - Biostatistics
 - Data Mining using R
 - Spatial and temporal data analysis
+- Data Analytics
 
 education:
   courses:

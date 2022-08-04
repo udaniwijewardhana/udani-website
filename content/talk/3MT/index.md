@@ -15,8 +15,8 @@ math: true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-27T12:40:00Z"
-#date_end: "2021-07-27T12:40:00Z"
+date: 2022-03-18T10:00:00
+#date_end: 
 all_day: false
 
 # Schedule page publish date 
