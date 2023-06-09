@@ -52,10 +52,10 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=CupPkR4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/uwijewardhana
+  link: https://github.com/udaniwijewardhana
 - icon: linkedin
   icon_pack: fab
-  link: "https://www.linkedin.com/in/udani-wijewardhana-2134426b"
+  link: "https://www.linkedin.com/in/udani-wijewardhana-phd-2134426b"
 - icon: cv
   icon_pack: ai
   link: "files/cv.pdf"
